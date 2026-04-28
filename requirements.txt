@@ -1,0 +1,2 @@
+topologicpy==0.9.21
+nbformat>=4.2.0
